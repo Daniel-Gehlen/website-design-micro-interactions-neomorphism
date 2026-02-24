@@ -1,11 +1,3 @@
-### 📄 About (English)
-**Neumorphic UI with Micro-Interactions** - A soft UI prototype built with HTML5 and CSS3 featuring dual-shadow 3D icons, relief cards with inset/outset shadows, pulsating cards, animated progress bar with shimmer effect, and interactive buttons with ripple effects. Implements neumorphic design principles, CSS animations, smooth transitions, and responsive layout. Perfect for modern apps, tech products, and innovative startups.
-
----
-
-### 📚 README.md
-
-```markdown
 # ✨ NeoUI - Design Micro-Interações / Neomorfismo
 
 ![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
